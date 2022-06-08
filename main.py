@@ -1,10 +1,6 @@
 
 import pandas as pd
 import numpy as np
-from tqdm.notebook import tqdm
-from google.cloud import bigquery
-from collections import defaultdict
-from datetime import datetime
 import streamlit as st
 import pandas as pd
 import numpy as np
