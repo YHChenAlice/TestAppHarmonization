@@ -1,8 +1,6 @@
 
 import pandas as pd
 import numpy as np
-!pip install matplotlib
-import matplotlib.pyplot as plt
 from tqdm.notebook import tqdm
 from google.cloud import bigquery
 from collections import defaultdict
